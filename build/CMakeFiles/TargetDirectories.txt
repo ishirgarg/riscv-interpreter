@@ -1,0 +1,3 @@
+/Users/ishirgarg/Github/riscv-interpreter/build/CMakeFiles/riscv_emu.dir
+/Users/ishirgarg/Github/riscv-interpreter/build/CMakeFiles/edit_cache.dir
+/Users/ishirgarg/Github/riscv-interpreter/build/CMakeFiles/rebuild_cache.dir
